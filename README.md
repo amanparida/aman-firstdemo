@@ -14,14 +14,14 @@ Author - Aman Parida
 <br>
 - Item 1
 - Item 2
- - Sub item 1
- - Sub item 2
+  - Sub item 1
+  - Sub item 2
 - Item 3
-- item 4
+- Item 4
 <br>
-* Item 1
-* Item 2
- * Sub item 1
- * Sub item 2
-* Item 3
-* item 4
+1. Item 1
+2. Item 2
+   1. Sub item 1
+   2. Sub item 2
+3. Item 3
+4. Item 4
