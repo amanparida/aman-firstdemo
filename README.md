@@ -7,4 +7,7 @@ Author - Aman Parida
 <br>
 ### hii
 **Bold**
+<br>
 *Italic*
+<br>
+~Strike through~
