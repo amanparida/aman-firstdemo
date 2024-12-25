@@ -7,3 +7,4 @@ Author - Aman Parida
 <br>
 ### hii
 **Bold**
+*Italic*
